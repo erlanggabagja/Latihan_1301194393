@@ -3,3 +3,5 @@
 halo Erlangga Bagja Anugrah
 
 hai Bandung
+
+cinta Indonesia
