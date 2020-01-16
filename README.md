@@ -5,3 +5,5 @@ halo Erlangga Bagja Anugrah
 hai Bandung
 
 cinta Indonesia
+
+nama panggilan saya Ega
