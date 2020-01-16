@@ -33,3 +33,5 @@ hai Bandung
 cinta Indonesia
 
 Struktur Data
+
+yok semangat semester 2
