@@ -35,3 +35,5 @@ cinta Indonesia
 Struktur Data
 
 yok semangat semester 2
+
+hai Salma
